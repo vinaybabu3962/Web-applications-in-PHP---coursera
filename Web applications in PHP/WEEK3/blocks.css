@@ -1,0 +1,47 @@
+body{
+	margin:20px;
+}
+#one{
+	border:2px solid black;
+	top:0px;
+	left:0px;
+	width:25%;
+	position:absolute;
+	margin-top:10px;
+	margin-left:10px;
+}
+#two{
+	border:2px solid green;
+	top:0;
+	right:0;
+	width:25%;
+	margin-right:10px;
+	margin-top:10px;
+	position:absolute;
+}
+#three{
+	border:2px solid blue;
+	left:0;
+	bottom:0;
+	width:25%;
+	position:absolute;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+#four{
+	border:2px solid orange;
+	right:0;
+	bottom:0;
+	width:25%;
+	margin-right:10px;
+	margin-bottom:10px;
+	position:absolute;
+}
+
+a{
+	text-decoration:none;
+	border:1px solid red;
+	text-align:center;
+	margin-left:42.5%;
+	font-weight:bold;
+}
